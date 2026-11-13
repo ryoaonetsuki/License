@@ -1,0 +1,20 @@
+{
+  "licenses": [
+    {
+      "active": true,
+      "buyer": "Mahir",
+      "domain": "animeai.zone.id",
+      "expires": "",
+      "key": "ANIMEAI-2026-ANISORA-0001",
+      "product": "Anisora"
+    },
+    {
+      "active": true,
+      "buyer": "Expired demo - LicenseGuard will reject this one",
+      "domain": "expired.example.com",
+      "expires": "2026-01-01",
+      "key": "DEMO-2026-ANISORA-0002",
+      "product": "Anisora"
+    }
+  ]
+}
